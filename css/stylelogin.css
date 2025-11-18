@@ -1,0 +1,39 @@
+body{
+    font-family: "Cal Sans", sans-serif;
+    background-color: black;
+    color: white;
+}
+.box{
+    margin-top: 100px;
+    margin-left: 450px;
+    /* margin: auto; */
+    display: flex;
+   justify-content: center; 
+   border: solid 1px;
+   width: 400px;
+   padding: 90px;
+   align-items: center;
+   gap: 50px;
+   border-radius: 20px;
+}   
+#butao{
+    width: 175px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-family: "Cal Sans", sans-serif;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: white;
+}
+#senha{
+    margin-top: 15px;
+}
+input{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
